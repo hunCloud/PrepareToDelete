@@ -1,0 +1,20 @@
+﻿Để clone source từ trang web về ta dùng.
+git init repository_folder
+git global --config user.name "..."
+git global --config user.gmail/email "..."
+git clone Shift+ Ins to link để lấy source về
+
+git commit -m "First comment" //add comment on repository
+
+
+to add source or file 
+git add readme.txt
+git status
+
+echo "#Introduce to use this command"> radme.md	to write something on file just
+
+git add readme.md
+
+git commit -m "I love the two MC introduce the Channel Japan"
+
+git push origin master// must use git commit -m ".." to update push on github
